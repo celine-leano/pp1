@@ -12,8 +12,10 @@
 
     $numbers = array(7, 9, 8, 9, 8, 8, 6);
 
-    // call printArray method
+    // call functions
     printArray($numbers);
+    largest($numbers);
+    average($numbers);
     ?>
 </body>
 </html>
