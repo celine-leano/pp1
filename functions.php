@@ -1,4 +1,8 @@
 <?php
     function printArray($array) {
-        echo $array;
+        print_r($array);
+    }
+
+    function largest($array) {
+        echo max($array);
     }
