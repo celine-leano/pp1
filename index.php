@@ -7,6 +7,7 @@
 <body>
     <h1>Pair Program 1</h1>
 
+    <pre>
     <?php
     include 'functions.php';
 
@@ -16,6 +17,8 @@
     printArray($numbers);
     largest($numbers);
     average($numbers);
+    removeDups($numbers);
     ?>
+    </pre>
 </body>
 </html>
