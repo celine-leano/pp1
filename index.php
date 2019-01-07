@@ -1,3 +1,12 @@
+<?php
+/*
+ * Celine Leano
+ * 1/4/2019
+ * 328/pp1/index.php
+ * Pair Program 1
+ */
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,6 +27,7 @@
     largest($numbers);
     average($numbers);
     removeDups($numbers);
+    distribution($numbers);
     ?>
     </pre>
 </body>
